@@ -1,5 +1,7 @@
 # dsc160-code
-UCSD Data Science and the Arts - Code Examples and Exercises - [dsc160.roberttwomey.com](dsc160.roberttwomey.com)
+Code Examples and Exercises for DSDC160 Data Science and the Arts
+
+Spring 2020 - Twomey - [dsc160.roberttwomey.com](dsc160.roberttwomey.com)
 
 ## Example Notebooks
 - Web Scraping: [examples/scrape-wikiart.ipynb](examples/scrape-wikiart.ipynb)
