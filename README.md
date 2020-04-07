@@ -9,3 +9,6 @@ UCSD Data Science and the Arts - Code Examples and Exercises - [dsc160.roberttwo
 ## Exercises
 - Exercise 0 (Canvas)
 - [Exercise 1 - Web-Scraping and Basic Visual Features](exercises/Exercise-1-Web-Scraping-Basic-Features.ipynb)
+- Exercise 2 - Meaningful Interpretation (Advanced Features and Vizualization Techniques)
+- Exercise 3 - Basic Generative Art
+- Exercise 4 - Advanced Generative Art
