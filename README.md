@@ -16,6 +16,6 @@ __Week 3__:
 ## Exercises
 - Exercise 0 (Canvas)
 - [Exercise 1 - Web-Scraping and Basic Visual Features](exercises/Exercise-1-Web-Scraping-Basic-Features.ipynb)
-- Exercise 2 - Meaningful Interpretation (Advanced Features and Vizualization Techniques)
+- [Exercise 2 - Genre Classification with MFCCs](exercises/Exercise-2-Genre%20Classification%20with%20MFCCs.ipynb)
 - Exercise 3 - Basic Generative Art
 - Exercise 4 - Advanced Generative Art
