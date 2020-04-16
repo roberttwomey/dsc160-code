@@ -12,6 +12,8 @@ __Week 2__:
 
 __Week 3__:
 - Basic Audio Features: [examples/basic-audio-features.ipynb](examples/basic-audio-features.ipynb)
+- Frequency Transforms: [examples/frequency-transforms.ipynb](examples/frequency-transforms.ipynb)
+- Advanced Audio Features: [examples/advanced-audio-features.ipynb](examples/advanced-audio-features.ipynb)
 
 ## Exercises
 - Exercise 0 - Cultural Analytics Reading and Resonse (on Canvas)
