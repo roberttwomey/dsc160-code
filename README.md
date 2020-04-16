@@ -14,7 +14,7 @@ __Week 3__:
 - Basic Audio Features: [examples/basic-audio-features.ipynb](examples/basic-audio-features.ipynb)
 
 ## Exercises
-- Exercise 0 (Canvas)
+- Exercise 0 (Cultural Analytics Reading and Resonse on Canvas)
 - [Exercise 1 - Web-Scraping and Basic Visual Features](exercises/Exercise-1-Web-Scraping-Basic-Features.ipynb)
 - [Exercise 2 - Genre Classification with MFCCs](exercises/Exercise-2-Genre-Classification-with-MFCCs.ipynb)
 - Exercise 3 - Basic Generative Art
