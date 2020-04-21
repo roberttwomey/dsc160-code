@@ -15,6 +15,9 @@ Code Examples and Exercises for DSDC160 Data Science and the Arts - Spring 2020 
 - Frequency Transforms: [examples/frequency-transforms.ipynb](examples/frequency-transforms.ipynb)
 - Advanced Audio Features: [examples/advanced-audio-features.ipynb](examples/advanced-audio-features.ipynb)
 
+### Week 4:
+- Bokeh for Interactive Plots: [examples/bokeh.ipynb](examples/bokeh.ipynb)
+
 ## Exercises
 - Exercise 0 - Cultural Analytics Reading and Resonse (on Canvas)
 - [Exercise 1 - Web-Scraping and Basic Visual Features](exercises/Exercise-1-Web-Scraping-Basic-Features.ipynb)
