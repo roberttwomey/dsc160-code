@@ -17,8 +17,9 @@ Code Examples and Exercises for DSDC160 Data Science and the Arts - Spring 2020 
 
 ### Week 4:
 - Bokeh for Interactive Plots: [examples/bokeh.ipynb](examples/bokeh.ipynb)
-- CNNs as Feature Extractors: [examples/cnn-feature-extractor.ipynb](examples/cnn-feature-extractor.ipynb)
 - Dimensional Reduction Techniques: [examples/dimensional-reduction.ipynb](examples/dimensional-reduction.ipynb)
+- Multidimensional Audio: [examples/audio-cluster-dim-reduction.ipynb](examples/audio-cluster-dim-reduction.ipynb)
+- CNNs as Feature Extractors: [examples/cnn-feature-extractor.ipynb](examples/cnn-feature-extractor.ipynb)
 
 ## Exercises
 - Exercise 0 - Cultural Analytics Reading and Resonse (on Canvas)
