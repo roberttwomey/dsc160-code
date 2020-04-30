@@ -21,6 +21,9 @@ Code Examples and Exercises for DSDC160 Data Science and the Arts - Spring 2020 
 - Multidimensional Audio: [examples/audio-cluster-dim-reduction.ipynb](examples/audio-cluster-dim-reduction.ipynb)
 - CNNs as Feature Extractors: [examples/cnn-feature-extractor.ipynb](examples/cnn-feature-extractor.ipynb)
 
+### Week 5:
+- Text Generation with RNN (LSTM/GRU): [examples/text-generation-rnn.ipynb](examples/text-generation-rnn.ipynb)
+
 ## Exercises
 - Exercise 0 - Cultural Analytics Reading and Resonse (on Canvas)
 - [Exercise 1 - Web-Scraping and Basic Visual Features](exercises/Exercise-1-Web-Scraping-Basic-Features.ipynb)
