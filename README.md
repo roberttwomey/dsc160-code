@@ -24,6 +24,14 @@ Code Examples and Exercises for DSDC160 Data Science and the Arts - Spring 2020 
 ### Week 5:
 - Text Generation with RNN (LSTM/GRU): [examples/text-generation-rnn.ipynb](examples/text-generation-rnn.ipynb)
 
+### Week 6:
+- Music Generation (all from [Google Magenta](https://magenta.tensorflow.org/), on colab)
+  - Performance-RNN: https://magenta.tensorflow.org/performance-rnn-browser
+    - colab notebook: https://colab.research.google.com/notebooks/magenta/performance_rnn/performance_rnn.ipynb
+  - Music-VAE: https://magenta.tensorflow.org/multitrack
+  - Music Transformer: https://magenta.tensorflow.org/piano-transformer
+    - colab: https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb
+
 ## Exercises
 - Exercise 0 - Cultural Analytics Reading and Resonse (on Canvas)
 - [Exercise 1 - Web-Scraping and Basic Visual Features](exercises/Exercise-1-Web-Scraping-Basic-Features.ipynb)
