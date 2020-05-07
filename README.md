@@ -29,6 +29,7 @@ Code Examples and Exercises for DSDC160 Data Science and the Arts - Spring 2020 
   - Performance-RNN colab notebook: https://colab.research.google.com/notebooks/magenta/performance_rnn/performance_rnn.ipynb
   - Music-VAE: https://magenta.tensorflow.org/multitrack
   - Music Transformer colab notebook: https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb
+- Deep Dream: [examples/deepdream.ipynb](examples/deepdream.ipynb)
 
 ## Exercises
 - Exercise 0 - Cultural Analytics Reading and Resonse (on Canvas)
