@@ -31,6 +31,10 @@ Code Examples and Exercises for DSDC160 Data Science and the Arts - Spring 2020 
   - Music Transformer colab notebook: https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_transformer.ipynb
 - Deep Dream: [examples/deepdream.ipynb](examples/deepdream.ipynb)
 
+### Week 7:
+- VGG Walkthrough: [examples/vgg_walkthrough/vgg19_layers.ipynb](examples/vgg_walkthrough/vgg19_layers.ipynb)
+- Neural Style Transfer: [examples/style_transfer_tensorflow/style_transfer_keras.ipynb](examples/style_transfer_tensorflow/style_transfer_keras.ipynb)
+
 ## Exercises
 - Exercise 0 - Cultural Analytics Reading and Resonse (on Canvas)
 - [Exercise 1 - Web-Scraping and Basic Visual Features](exercises/Exercise-1-Web-Scraping-Basic-Features.ipynb)
