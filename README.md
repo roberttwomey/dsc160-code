@@ -34,6 +34,7 @@ Code Examples and Exercises for DSDC160 Data Science and the Arts - Spring 2020 
 ### Week 7:
 - VGG Walkthrough: [examples/vgg_walkthrough/vgg19_layers.ipynb](examples/vgg_walkthrough/vgg19_layers.ipynb)
 - Neural Style Transfer: [examples/neural-style-transfer.ipynb](examples/neural-style-transfer.ipynb)
+- DCGAN: [examples/DCGAN.ipynb](examples/DCGAN.ipynb)
 
 ## Exercises
 - Exercise 0 - Cultural Analytics Reading and Resonse (on Canvas)
